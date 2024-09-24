@@ -1,4 +1,5 @@
-
+# Bill Nicholson
+# nicholdw@ucmail.uc.edu
 import csv
 
 with open('StatesAndCapitals.csv', 'r') as csvfile:
